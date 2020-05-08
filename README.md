@@ -7,4 +7,4 @@ Image Processing Codes Using Java
 - Filter using Fourier Transform .
 - Binary_Reconstruction.
 - OCR character recognition .
-- Find lines:The task is to write a program which finds line segments on black and white images.(Binary space )
+- Find lines "mask.java":The task is to write a program which finds line segments on black and white images.(Binary space )
